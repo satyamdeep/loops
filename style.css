@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(15, 120, 120);
+
+}
+h1{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h2{
+    color: yellow;
+    text-decoration-line: underline;
+}
+
+i{
+    background-color: red;
+    color: yellow;
+   
+}
+p{
+    background-color: yellow;
+}
